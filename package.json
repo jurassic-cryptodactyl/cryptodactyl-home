@@ -1,5 +1,5 @@
 {
-  "name": "next-js-boilerplate",
+  "name": "cryptodactyl-landing",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "classnames": "^2.3.1",
-    "next": "^12.0.9",
-    "next-seo": "^4.29.0",
+    "next": "^12.2.2",
+    "next-seo": "^5.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "styled-jsx-plugin-postcss": "^4.0.1"
@@ -50,5 +50,5 @@
     "tailwindcss": "^3.0.17",
     "typescript": "^4.5.5"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
