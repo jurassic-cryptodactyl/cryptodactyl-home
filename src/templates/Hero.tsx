@@ -27,7 +27,7 @@ const Hero = () => (
             <span className="text-primary-500">Dapp Analytics</span>
           </>
         }
-        description="The easiest way view contract activity."
+        description="The easiest way to view contract activity you care about."
         button={
           <Link href="https://www.cryptodactyl.io">
             <a>
