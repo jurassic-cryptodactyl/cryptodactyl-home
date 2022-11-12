@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="/">
-            <a>Sign in</a>
+            <a>About</a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -24,7 +24,7 @@ const Hero = () => (
         title={
           <>
             {'Cryptodactyl is proud to bring you\n'}
-            <span className="text-primary-500">Dapp Analytics</span>
+            <span className="text-primary-700">Dapp Analytics</span>
           </>
         }
         description="The easiest way to view contract activity you care about."
