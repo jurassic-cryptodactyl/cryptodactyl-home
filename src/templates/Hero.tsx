@@ -24,7 +24,7 @@ const Hero = () => (
         title={
           <>
             {'Cryptodactyl is proud to bring you\n'}
-            <span className="text-primary-700">Dapp Analytics</span>
+            <span className="text-primary-900">Dapp Analytics</span>
           </>
         }
         description="The easiest way to view contract activity you care about."

@@ -1,0 +1,5 @@
+# Read by Cloudflare to add these headers
+# https://developers.cloudflare.com/pages/platform/headers
+/*
+    X-Frame-Options: DENY
+    X-Content-Type-Options: nosniff
