@@ -24,14 +24,14 @@ const Hero = () => (
         title={
           <>
             {'Cryptodactyl is proud to bring you\n'}
-            <span className="text-primary-900">Dapp Analytics</span>
+            <span className="text-primary-900">Dapp Tooling</span>
           </>
         }
-        description="The easiest way to view contract activity you care about."
+        description="A great way to see contract activity you care about."
         button={
           <Link href="https://www.cryptodactyl.io">
             <a>
-              <Button xl>Try our first dashboard</Button>
+              <Button xl>Check out our first dashboard</Button>
             </a>
           </Link>
         }
