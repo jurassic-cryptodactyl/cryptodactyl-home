@@ -25,7 +25,7 @@
     "@next/bundle-analyzer": "^13.0.0",
     "@types/node": "^17.0.13",
     "@types/react": "^18.0.24",
-    "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
     "@typescript-eslint/parser": "^5.41.0",
     "autoprefixer": "^10.4.2",
     "cross-env": "^7.0.3",
